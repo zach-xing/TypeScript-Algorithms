@@ -1,4 +1,4 @@
-# algorithms with typescript
+# Algorithms with Typescript
 
 from [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 

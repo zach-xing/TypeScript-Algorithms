@@ -1,16 +1,11 @@
-interface ILinkedListNode {
-  value: any;
-  next: ILinkedListNode | null;
-}
-
 /**
  * LinkedList 的 单个节点
  */
 export default class LinkedListNode {
   value: any;
-  next: ILinkedListNode | null;
+  next: LinkedListNode | null;
 
-  constructor(value: any, next: ILinkedListNode) {
+  constructor(value: any, next?: LinkedListNode | null) {
     this.value = value;
     this.next = !!next ? next : null;
   }
