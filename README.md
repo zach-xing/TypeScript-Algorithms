@@ -7,5 +7,9 @@ from [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 ```shell
 yarn # 安装依赖
 
-ts-node ./src/Xxx # 运行代码
+测试某段代码
+yarn run test -- 'xxx'
+
+比如：
+yarn run test -- 'factorial'
 ```
