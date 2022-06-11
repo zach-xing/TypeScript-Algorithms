@@ -2,6 +2,8 @@
 
 from [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+用作学习
+
 ## Use
 
 ```shell
