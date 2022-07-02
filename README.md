@@ -81,7 +81,7 @@ yarn run test -- 'factorial'
   * ✔`A` [组合求和](src/algorithms/sets/combination-sum) - 查找形成特定总和的所有组合
 * **字符串**
   * ✔`B` [汉明距离](src/algorithms/string/hamming-distance) - 符号不同的位置数
-  * `A` [莱温斯坦距离](src/algorithms/string/levenshtein-distance) - 两个序列之间的最小编辑距离
+  * ✔`A` [莱温斯坦距离](src/algorithms/string/levenshtein-distance) - 两个序列之间的最小编辑距离
   * `A` [Knuth–Morris–Pratt 算法](src/algorithms/string/knuth-morris-pratt) KMP 算法 - 子串搜索 (模式匹配)
   * `A` [字符串快速查找](src/algorithms/string/z-algorithm) - 子串搜索 (模式匹配)
   * `A` [Rabin Karp 算法](src/algorithms/string/rabin-karp) - 子串搜索
