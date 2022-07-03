@@ -85,7 +85,7 @@ yarn run test -- 'factorial'
   * ✔`A` [Knuth–Morris–Pratt 算法](src/algorithms/string/knuth-morris-pratt) KMP 算法 - 子串搜索 (模式匹配)
   * `A` [字符串快速查找](src/algorithms/string/z-algorithm) - 子串搜索 (模式匹配)
   * `A` [Rabin Karp 算法](src/algorithms/string/rabin-karp) - 子串搜索
-  * `A` [最长公共子串](src/algorithms/string/longest-common-substring)
+  * ✔`A` [最长公共子串](src/algorithms/string/longest-common-substring)
   * `A` [正则表达式匹配](src/algorithms/string/regular-expression-matching)
 * **搜索**
   * `B` [线性搜索](src/algorithms/search/linear-search)
