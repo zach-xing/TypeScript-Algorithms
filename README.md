@@ -88,8 +88,8 @@ yarn run test -- 'factorial'
   * ✔`A` [最长公共子串](src/algorithms/string/longest-common-substring)
   * `A` [正则表达式匹配](src/algorithms/string/regular-expression-matching)
 * **搜索**
-  * `B` [线性搜索](src/algorithms/search/linear-search)
-  * `B` [跳转搜索/块搜索](src/algorithms/search/jump-search) - 搜索有序数组
+  * ✔`B` [线性搜索](src/algorithms/search/linear-search)
+  * ✔`B` [跳转搜索/块搜索](src/algorithms/search/jump-search) - 搜索有序数组
   * `B` [二分查找](src/algorithms/search/binary-search) - 搜索有序数组
   * `B` [插值搜索](src/algorithms/search/interpolation-search) - 搜索均匀分布的有序数组
 * **排序**
